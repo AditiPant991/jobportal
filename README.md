@@ -31,14 +31,14 @@
 ![jobCreated](https://user-images.githubusercontent.com/108412316/196792400-d7604d07-011f-4d00-bb39-3437df54a306.png)
 
 ## Job Seeker Login
-![logincandidate](https://user-images.githubusercontent.com/108412316/196792516-89afe503-6183-4995-b41d-40b0106863aa.png)
+![logincandidatefinal2](https://user-images.githubusercontent.com/108412316/196854061-82463421-a13f-45b4-a0f8-55cfb7a1adb8.png)
 
 ## Candidate resume
 ![resumedatabase](https://user-images.githubusercontent.com/108412316/196792776-c13e3516-1d86-4854-b343-d5fb50f95cee.png)
 
 ## Candidae applied for the job
+![candidateapply2](https://user-images.githubusercontent.com/108412316/196854296-74ed68af-25aa-4f59-9584-3b89ecf38993.png)
 
-![candidateapply](https://user-images.githubusercontent.com/108412316/196792600-5b4ec9fc-161f-4d18-8fe1-b89fdc7e3bab.png)
 
 ## Database
 ![database](https://user-images.githubusercontent.com/108412316/196792881-5019fb25-0aa8-48cf-af53-5a12bb99aed5.png)
