@@ -1,4 +1,4 @@
-# **Jobportal: Webapplication for Job seeker and recruiter** [Visit project](http://196.1/)
+# **Jobportal: Webapplication for Job seeker and recruiter** [Visit project](http://3.19.65.126/)
 ## Description:
 - Mainly user **Django framework, HTML, CSS, JS, Bootstrap is used in frontend and connected to database**.
 - User can Registration and Login
@@ -15,8 +15,8 @@
 * run server using command: python3 manage.py runserver
   # You can login on app with test user root
   # **USER LOGIN CREDENTIALS**
-    - Username: root
-    - Password: root
+    - Username: aditi
+    - Password: #Admin123#
       # OR can signup on app : (Tip: Password should be more than 8 letters and Hard do not match password with your username)
   
 # Applicaiton images
